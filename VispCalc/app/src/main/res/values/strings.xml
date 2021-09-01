@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CurrCon🤑</string>
+    <string name="TitleText"></string>
+    <string name="InrText">Enter Value in USD: </string>
+    <string name="InputRS">Currency in USD</string>
+    <string name="Button">Convert</string>
+    <string name="OutputText">Currency in INR: </string>
+    <string name="OutputDoll">Converted amount</string>
+</resources>
