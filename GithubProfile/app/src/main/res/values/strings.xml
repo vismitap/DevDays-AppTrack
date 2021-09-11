@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GithubProfile</string>
+    <string name="title">Profile Checker</string>
+    <string name="id">Enter your Github id</string>
+    <string name="idPlaceholder">Your Github id goes here</string>
+
+</resources>
